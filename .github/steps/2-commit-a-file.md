@@ -4,6 +4,8 @@
   Define terms and link to docs.github.com.
 -->
 
+# The git push is now working
+
 ## Step 2: Commit a file
 
 _You created a branch! :tada:_
